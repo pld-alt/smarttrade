@@ -9,4 +9,8 @@ Bot for autotrade in [Pocket Option](https://pocketoption.com/).
 3. Download a project from Github by clicking Code -> Download zip, unzip the project.
 4. Open cmd terminal on Windows. Inside of terminal, go to the folder with a project you unzipped.
 5. Run install.bat.
-6. Run "python bot.py".
+
+### Run
+
+by staying in the terminal with the project folder opened, type:
+`python bot.py`
