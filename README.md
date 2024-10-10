@@ -13,4 +13,5 @@ Bot for autotrade in [Pocket Option](https://pocketoption.com/).
 ### Run
 
 by staying in the terminal with the project folder opened, type:
+
 `python bot.py`
