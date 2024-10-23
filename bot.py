@@ -2,6 +2,7 @@ import os
 import platform
 import base64
 import json
+import time
 from datetime import datetime, timedelta
 
 import pandas as pd
@@ -275,5 +276,6 @@ def websocket_log():
 
 if __name__ == '__main__':
     load_web_driver()
+    time.sleep(60)
     while True:
         websocket_log()
